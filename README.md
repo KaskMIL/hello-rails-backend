@@ -1,24 +1,78 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-Rails-React
 
-Things you may want to cover:
+> Is a practice to understand how to use Rails as Back-End.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Postgresql
 
-* Configuration
+## React Front-End
 
-* Database creation
+- [Front-End PR](https://github.com/KaskMIL/hello-react-front-end/pull/1)
 
-* Database initialization
+## Live Demo (coming soon...)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
+To get a local copy up and running, fallow these simple steps:
 
-* ...
+### Prerequisites
+
+- Ruby 3.0.1 or newer
+- Rails 7.0.4 or newer
+- Git
+- NPM
+- PostgresSQL
+- Web browser
+
+### Setup
+
+- git clone git@github.com:KaskMIL/hello-rails-backend.git
+- cd hello-rails-backend
+
+### Install
+
+- bundle install
+- npm install
+
+### Usage
+
+Execute command
+
+rails server
+Then browse http://[::1]:3000/api/v1/greeting
+
+
+## Authors
+
+👤 **Tom Milanesi**
+
+- GitHub: [@TomMilanesi](https://github.com/KaskMIL)
+- Twitter: [@TomMilanesi](https://twitter.com/TomasMilanesi)
+- LinkedIn: [Tomas Milanesi](https://www.linkedin.com/in/tomas-milanesi-3427bb185/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
