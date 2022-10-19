@@ -1,24 +1,67 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-React-Front-End
 
-Things you may want to cover:
+> This app is a practice to create Front-end and Back-End, and integrate it together to make a functional app.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- React
+- Redux
 
-* Configuration
+## Live Demo (Comming soon...)
 
-* Database creation
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To run a local copy of this project follow these simple steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Prerequisites
 
-* Deployment instructions
+    NodeJS
+    Any web browser (e.g. Google Chrome)
+    Any Code Editor (e.g. Vscode)
 
-* ...
+### Setup
+
+    1. git clone git@github.com:KaskMIL/hello-react-front-end.git
+    2. cd hello-react-front-end
+
+### Install
+
+    npm install
+
+### Usage
+
+    npm start
+
+
+## Authors
+👤 **Tom Milanesi**
+
+- GitHub: [@TomMilanesi](https://github.com/KaskMIL)
+- Twitter: [@TomMilanesi](https://twitter.com/TomasMilanesi)
+- LinkedIn: [Tomas Milanesi](https://www.linkedin.com/in/tomas-milanesi-3427bb185/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Images
+
+<a href="https://pixabay.com/" title="Beer Pint">Images from Pixabay.com</a>
+
+## Acknowledgements
+
+The design is inspired on the work of [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
